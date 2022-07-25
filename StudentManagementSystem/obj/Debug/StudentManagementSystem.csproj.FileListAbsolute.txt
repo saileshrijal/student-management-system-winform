@@ -1,0 +1,39 @@
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginPage.resources
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.WelcomePage.resources
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.EntryPage.resources
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystemDatabase.mdf
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystemDatabase_log.ldf
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoadingPage.resources
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.manifest
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.application
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe.manifest
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.application
+C:\Users\Sailesh Rijal\OneDrive\Desktop\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+D:\c#\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystemDatabase.mdf
+D:\c#\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystemDatabase_log.ldf
+D:\c#\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+D:\c#\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.manifest
+D:\c#\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.application
+D:\c#\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+D:\c#\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.EntryPage.resources
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoadingPage.resources
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginPage.resources
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.WelcomePage.resources
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe.manifest
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.application
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+D:\c#\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.TrustInfo.xml
